@@ -6,11 +6,11 @@
 排序結果。
 
 ## Requirements
-python==3.8.5
-numpy==1.19.2
-nltk==3.5
-textblob==0.15.3
-jieba==0.42.1
+python==3.8.5 
+numpy==1.19.2 
+nltk==3.5 
+textblob==0.15.3 
+jieba==0.42.1 
 
 ## Usage
 python main.py --query <query>
